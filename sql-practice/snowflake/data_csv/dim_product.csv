@@ -1,0 +1,31 @@
+product_key,product_name,category,unit_price,unit_cost
+1,Wireless Headphones,Electronics,799.0,575.55
+2,Bluetooth Speaker,Electronics,499.0,357.36
+3,Smartwatch,Electronics,1899.0,1077.36
+4,Phone Charger,Electronics,199.0,144.54
+5,Laptop Sleeve,Electronics,349.0,208.97
+6,Webcam,Electronics,599.0,385.12
+7,Power Bank,Electronics,299.0,200.95
+8,Mechanical Keyboard,Electronics,1099.0,687.75
+9,Coffee Maker,Home,899.0,499.61
+10,Air Purifier,Home,1499.0,1079.57
+11,LED Desk Lamp,Home,349.0,204.64
+12,Cotton Bedding Set,Home,699.0,414.1
+13,Scented Candle,Home,129.0,91.53
+14,Storage Boxes,Home,249.0,153.9
+15,Electric Kettle,Home,399.0,289.7
+16,Yoga Mat,Sports,249.0,171.87
+17,Running Shoes,Sports,1099.0,665.17
+18,Water Bottle,Sports,149.0,82.25
+19,Resistance Bands,Sports,179.0,132.39
+20,Fitness Tracker,Sports,799.0,453.13
+21,Data Modeling Handbook,Books,399.0,276.91
+22,SQL Cookbook,Books,349.0,226.05
+23,Nordic Crime Novel,Books,149.0,104.54
+24,Swedish Classics Cookbook,Books,299.0,205.75
+25,Stockholm Travel Guide,Books,199.0,135.16
+26,Wool Sweater,Clothing,899.0,582.7
+27,Rain Jacket,Clothing,1299.0,920.45
+28,Merino Socks,Clothing,149.0,84.72
+29,Winter Beanie,Clothing,199.0,118.27
+30,Denim Jeans,Clothing,799.0,550.0

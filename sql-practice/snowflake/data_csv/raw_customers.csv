@@ -1,0 +1,71 @@
+customer_id,full_name,email,city,updated_at
+5022,Leila Silva,LEILA.SILVA@EXAMPLE.COM,Uppsala,2025-05-28 19:10:00
+5009,JOHAN ERIKSSON,Johan.eriksson@example.com,Gothenburg ,2025-02-18 06:34:00
+5026,ida pettersson,ida.pettersson@example.com,Linköping,2025-06-15 11:39:00
+5043,SOFIA PETTERSSON,sofia.pettersson@example.com,Örebro,2025-04-06 19:49:00
+5012,Hanna Holm,,Gothenburg,2025-04-06 08:35:00
+5018,Viktor Larsson,,Stockholm,2025-06-26 19:31:00
+5038,JOHAN KHAN,Johan.khan@example.com,Gothenburg,2025-01-21 09:05:00
+5011,  Nils Lindqvist ,Nils.lindqvist@example.com,Örebro,2025-05-04 22:31:00
+5005,Ida Gustafsson,IDA.GUSTAFSSON@EXAMPLE.COM,Örebro,2025-02-02 20:37:00
+5004,sofia karlsson,SOFIA.KARLSSON@EXAMPLE.COM,Västerås,2025-03-22 20:08:00
+5043,SOFIA PETTERSSON,sofia.pettersson@example.com,Malmö,2025-03-07 22:49:00
+5040,Nora Eriksson,NORA.ERIKSSON@EXAMPLE.COM,Stockholm ,2025-06-04 03:55:00
+5003,leila hansson,leila.hansson@example.com,Gothenburg,2025-06-03 21:39:00
+5010,Marcus Svensson,Marcus.svensson@example.com,Linköping,2025-02-02 16:37:00
+5025,Hanna Silva,hanna.silva@example.com,Gothenburg,2025-03-05 11:58:00
+5008,Lars Pettersson,lars.pettersson@example.com,Stockholm,2025-07-18 12:11:00
+5031,Daniel Bengtsson,daniel.bengtsson@example.com,Västerås,2025-03-13 03:12:00
+5038,JOHAN KHAN,Johan.khan@example.com,Linköping,2025-03-01 13:05:00
+5043,SOFIA PETTERSSON,sofia.pettersson@example.com,Linköping ,2025-02-27 18:49:00
+5033,Ida Eriksson,ida.eriksson@example.com,Örebro,2025-05-01 06:09:00
+5008,Lars Pettersson,lars.pettersson@example.com,Linköping,2025-05-22 07:11:00
+5001,Anna Lindberg,ANNA.LINDBERG@EXAMPLE.COM,Uppsala,2025-01-07 18:51:00
+5028,amir lindberg,Amir.lindberg@example.com,Malmö,2025-03-31 01:38:00
+5020,  Anna Eriksson ,anna.eriksson@example.com,,2025-01-17 12:38:00
+5017,Emma Eriksson,Emma.eriksson@example.com,Malmö,2025-05-26 20:51:00
+5029,  Karl Olsson ,karl.olsson@example.com,Örebro,2025-05-29 11:41:00
+5039,ELIN LINDBERG,Elin.lindberg@example.com,Uppsala,2025-07-13 10:38:00
+5029,  Karl Olsson ,karl.olsson@example.com,Gothenburg,2025-04-11 11:41:00
+5035,Amir Eriksson,amir.eriksson@example.com,Malmö,2025-03-05 19:37:00
+5023,mikael bengtsson,mikael.bengtsson@example.com,Stockholm ,2025-01-22 17:42:00
+5006,henrik gustafsson,Henrik.gustafsson@example.com,Uppsala,2025-03-26 05:06:00
+5038,JOHAN KHAN,Johan.khan@example.com,Uppsala,2025-03-13 09:05:00
+5045,Nora Gustafsson,nora.gustafsson@example.com,Gothenburg,2025-03-02 17:43:00
+5029,  Karl Olsson ,karl.olsson@example.com,Gothenburg,2025-04-07 06:41:00
+5007,Anna Jonsson,anna.jonsson@example.com,,2025-01-19 11:01:00
+5022,Leila Silva,LEILA.SILVA@EXAMPLE.COM,,2025-04-15 14:10:00
+5014,Johan Karlsson,,Malmö,2025-01-10 17:12:00
+5004,sofia karlsson,SOFIA.KARLSSON@EXAMPLE.COM,Västerås,2025-02-19 18:08:00
+5027,ELIN KHAN,elin.khan@example.com,Västerås,2025-04-05 01:04:00
+5042,Johan Lindberg,johan.lindberg@example.com,Örebro,2025-05-19 07:15:00
+5005,Ida Gustafsson,IDA.GUSTAFSSON@EXAMPLE.COM,Västerås,2025-02-27 20:37:00
+5045,Nora Gustafsson,,Linköping,2025-02-26 15:43:00
+5036,  Karl Novak ,karl.novak@example.com,Uppsala,2025-07-12 23:55:00
+5040,Nora Eriksson,NORA.ERIKSSON@EXAMPLE.COM,Malmö,2025-07-14 03:55:00
+5033,Ida Eriksson,ida.eriksson@example.com,Linköping,2025-05-29 08:09:00
+5008,Lars Pettersson,lars.pettersson@example.com,Uppsala,2025-07-13 11:11:00
+5031,Daniel Bengtsson,daniel.bengtsson@example.com,Malmö,2025-02-12 23:12:00
+5037,Karl Novak,karl.novak@example.com,Västerås,2025-03-14 10:23:00
+5013,Anders Jonsson,Anders.jonsson@example.com,Linköping,2025-05-08 10:17:00
+5032,Daniel Hansson,Daniel.hansson@example.com,Linköping,2025-02-09 15:01:00
+5024,Leila Andersson,LEILA.ANDERSSON@EXAMPLE.COM,Örebro,2025-03-11 04:28:00
+5004,sofia karlsson,SOFIA.KARLSSON@EXAMPLE.COM,Gothenburg,2025-04-10 19:08:00
+5037,Karl Novak,karl.novak@example.com,Uppsala ,2025-02-13 05:23:00
+5040,Nora Eriksson,NORA.ERIKSSON@EXAMPLE.COM,Örebro,2025-07-06 06:55:00
+5033,Ida Eriksson,ida.eriksson@example.com,Linköping,2025-05-12 07:09:00
+5044,  Emma Pettersson ,EMMA.PETTERSSON@EXAMPLE.COM,Uppsala,2025-05-28 23:00:00
+5022,Leila Silva,LEILA.SILVA@EXAMPLE.COM,Malmö,2025-06-13 15:10:00
+5030,Daniel Persson,daniel.persson@example.com,Västerås,2025-04-08 16:20:00
+5020,  Anna Eriksson ,anna.eriksson@example.com,Örebro,2025-01-29 16:38:00
+5015,  Hanna Jansson ,hanna.jansson@example.com,Uppsala,2025-06-27 01:00:00
+5019,Tomas Hansson,Tomas.hansson@example.com,Uppsala,2025-02-10 03:08:00
+5026,ida pettersson,ida.pettersson@example.com,Västerås ,2025-06-10 06:39:00
+5002,felix johansson,felix.johansson@example.com,Uppsala,2025-03-22 22:04:00
+5015,  Hanna Jansson ,,Linköping,2025-05-29 20:00:00
+5028,amir lindberg,,Stockholm ,2025-03-27 00:38:00
+5034,FELIX SILVA,Felix.silva@example.com,Örebro ,2025-03-31 16:45:00
+5041,ANDERS LINDBERG,Anders.lindberg@example.com,,2025-06-29 03:46:00
+5016,Julia Bengtsson,julia.bengtsson@example.com,Linköping ,2025-05-23 00:23:00
+5005,Ida Gustafsson,,,2025-01-03 16:37:00
+5021,Anders Bengtsson,anders.bengtsson@example.com,Uppsala,2025-06-18 05:44:00
