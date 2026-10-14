@@ -81,13 +81,10 @@ sqlite3 practice.db < data/setup.sql
 1. Read the question and hint. Try it **without** the hint first.
 2. Write your query under the question and run it.
 3. Compare the row count, columns and first row with the `Expected` lines.
-4. If it matches, open the solution and compare approaches. There is often more than one right
+4. There is often more than one right
    way. Rewrite your query a second way (for example, a subquery as a CTE).
 5. If it does not match, debug it step by step: run each CTE on its own and check the joins.
 6. Add the pattern to `notes/sql_patterns.md`, then commit your work (see below).
-
-Suggested pace: one exercise file every 2-3 days, and one timed mock set per week
-(3-5 medium questions in 45 minutes).
 
 ## From SQL Server to SQLite
 
@@ -106,41 +103,6 @@ You know T-SQL, so here are the main differences you will hit:
 | `CONVERT(varchar, x)` | `CAST(x AS TEXT)` |
 
 Window functions, CTEs, `CASE`, `COALESCE` and joins work the same way.
-
-## Put it on GitHub
-
-One-time setup (run inside the `sql-practice` folder):
-
-```bash
-git init -b main
-git add .
-git commit -m "Add SQL practice repo"
-```
-
-Create an **empty** repository named `sql-practice` on GitHub (no README, no .gitignore), then:
-
-```bash
-git remote add origin https://github.com/<your-username>/sql-practice.git
-git push -u origin main
-```
-
-If Git asks you to sign in, use the browser prompt (Git Credential Manager) or run
-`gh auth login` if you use the GitHub CLI.
-
-Then commit as you go, with one small commit per finished exercise file or topic:
-
-```bash
-git add exercises/01_select_filter_join.sql notes/sql_patterns.md
-git commit -m "Solve joins and anti-joins (exercises 01)"
-git push
-```
-
-Notes:
-- `.gitignore` excludes `practice.db` (it can be rebuilt from `setup.sql`) and the `solutions/`
-  folder, so your public repo shows **your** work. Remove the last line of `.gitignore` if you
-  want the solutions on GitHub too.
-- Good commit messages ("Add month-over-month with LAG") make the repo easy to skim for a
-  recruiter. Consistent commits over weeks also show steady learning.
 
 ## Progress tracker
 
